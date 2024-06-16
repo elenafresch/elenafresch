@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Birthstone+Bounce:wght@400&display=swap");
+@font-face {
+  font-family: "Kai";
+  src: url("/public/kai-regular.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-kai: Kai;
+  --text-sm-regular: Inter;
+  --font-birthstone-bounce: "Birthstone Bounce";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+  --font-size-19xl: 38px;
+  --font-size-lg: 18px;
+  --text-xs-medium-size: 12px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-2xs: 11px;
+  --font-size-mini: 15px;
+  --text-sm-regular-size: 14px;
+
+  /* Colors */
+  --gray-100: #f2f4f7;
+  --gray-200: #eaecf0;
+  --color-floralwhite-100: #f8f6f0;
+  --color-floralwhite-200: rgba(248, 246, 240, 0.35);
+  --color-floralwhite-300: rgba(248, 246, 240, 0.9);
+  --color-floralwhite-400: rgba(248, 246, 240, 0.8);
+  --color-darkslategray-100: #343434;
+  --color-darkslategray-200: rgba(52, 52, 52, 0.3);
+  --color-darkslategray-300: rgba(52, 52, 52, 0.8);
+  --color-darkslategray-400: rgba(52, 52, 52, 0.9);
+  --color-darkslategray-500: rgba(52, 52, 52, 0.7);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+  --color-dimgray: rgba(89, 89, 89, 0.9);
+  --color-gray-100: rgba(255, 255, 255, 0.95);
+  --color-gray-200: rgba(0, 0, 0, 0.9);
+  --color-black: #000;
+  --gray-500: #667085;
+  --gray-300: #d0d5dd;
+  --white: #fff;
+  --orange-50: #fff6ed;
+  --orange-700: #c4320a;
+
+  /* Gaps */
+  --gap-65xl: 84px;
+  --gap-2xl: 21px;
+  --gap-23xl: 42px;
+  --gap-lgi: 19px;
+  --gap-46xl: 65px;
+  --gap-base: 16px;
+  --gap-13xl: 32px;
+  --gap-146xl: 165px;
+  --gap-22xl: 41px;
+  --gap-63xl: 82px;
+  --gap-12xs: 1px;
+  --gap-48xl: 67px;
+  --gap-mid: 17px;
+  --gap-14xl: 33px;
+  --gap-10xl: 29px;
+  --gap-xl: 20px;
+  --gap-20xl: 39px;
+  --gap-10xs: 3px;
+  --gap-5xl: 24px;
+  --gap-7xs: 6px;
+  --gap-5xs: 8px;
+  --gap-284xl: 303px;
+  --gap-57xl: 76px;
+  --gap-132xl: 151px;
+  --gap-19xl: 38px;
+  --gap-11xs: 2px;
+  --gap-3xs: 10px;
+  --gap-21xl: 40px;
+  --gap-797xl: 816px;
+  --gap-mini: 15px;
+  --gap-116xl: 135px;
+
+  /* Paddings */
+  --padding-66xl: 85px;
+  --padding-xl: 20px;
+  --padding-136xl: 155px;
+  --padding-12xs: 1px;
+  --padding-77xl: 96px;
+  --padding-85xl: 104px;
+  --padding-7xl: 26px;
+  --padding-48xl: 67px;
+  --padding-11xl: 30px;
+  --padding-2xl: 21px;
+  --padding-40xl: 59px;
+  --padding-31xl: 50px;
+  --padding-3xl: 22px;
+  --padding-mid: 17px;
+  --padding-15xl: 34px;
+  --padding-26xl: 45px;
+  --padding-14xl: 33px;
+  --padding-mini: 15px;
+  --padding-3xs: 10px;
+  --padding-5xs: 8px;
+  --padding-smi: 13px;
+  --padding-46xl: 65px;
+  --padding-677xl: 696px;
+  --padding-28xl: 47px;
+  --padding-275xl: 294px;
+  --padding-13xl: 32px;
+  --padding-433xl: 452px;
+  --padding-4xl: 23px;
+  --padding-5xl: 24px;
+  --padding-8xl: 27px;
+  --padding-88xl: 107px;
+  --padding-950xl: 969px;
+  --padding-611xl: 630px;
+  --padding-247xl: 266px;
+  --padding-390xl: 409px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-5xs: 8px;
+
+  /* Effects */
+  --shadow-xs: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}

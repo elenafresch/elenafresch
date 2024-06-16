@@ -1,0 +1,25 @@
+.notify-me {
+  position: relative;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.02em;
+  font-family: var(--text-sm-regular);
+  color: var(--color-floralwhite-100);
+  text-align: left;
+}
+.notify-me-button {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-mid) var(--padding-15xl);
+  background-color: var(--color-darkslategray-400);
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 3;
+}
+.notify-me-button:hover {
+  background-color: var(--color-dimgray);
+}

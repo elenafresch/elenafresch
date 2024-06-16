@@ -1,0 +1,21 @@
+{
+  "detectedConfig": {
+    "typescript": false,
+    "naming": "Kebab Case",
+    "unit": "px",
+    "framework": "html-css",
+    "styling": "CSS"
+  },
+  "locofyConfig": {
+    "project": "nenartsy",
+    "id": "6592c32952f07b2b134baa5c",
+    "framework": "react",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Pascal Case",
+    "path": "nenartsy/public/",
+    "componentsPath": "/Users/elenafresch/Documents/GitHub/elenafresch/nenartsy/src/components",
+    "screensPath": "/Users/elenafresch/Documents/GitHub/elenafresch/nenartsy/src/pages"
+  }
+}

@@ -1,0 +1,15 @@
+.gallery-nested-images2 {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 466px;
+  z-index: 3;
+}
+
+@media screen and (max-width: 750px) {
+  .gallery-nested-images2 {
+    width: 100%;
+  }
+}

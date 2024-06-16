@@ -1,0 +1,116 @@
+.frame-child61 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.more7 {
+  margin: 0 !important;
+  height: 48px;
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 74px);
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  font-family: var(--font-kai);
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.label140 {
+  position: absolute;
+  margin: 0 !important;
+  top: 231px;
+  left: calc(50% - 60px);
+  line-height: 20px;
+  z-index: 1;
+}
+.label141 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 20px;
+}
+.label142 {
+  width: 55px;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 20px;
+  display: inline-block;
+}
+.label143 {
+  width: 60px;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 20px;
+  display: inline-block;
+}
+.label144 {
+  text-decoration: none;
+  width: 53px;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+}
+.label145 {
+  width: 59px;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 20px;
+  display: inline-block;
+}
+.label-parent30 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-wrapper2 {
+  width: 531px;
+  margin: 0 !important;
+  position: absolute;
+  top: 144px;
+  left: calc(50% - 266px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.vector-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--text-xs-medium-size);
+  color: var(--color-floralwhite-100);
+  font-family: var(--text-sm-regular);
+}
+
+@media screen and (max-width: 1025px) {
+  .more7 {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .more7 {
+    font-size: var(--font-size-10xl);
+  }
+
+  .label-parent30 {
+    flex-wrap: wrap;
+  }
+}
