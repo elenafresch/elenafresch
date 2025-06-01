@@ -1,0 +1,5 @@
+#1 Open virtual environment
+source venv/bin/activate
+
+#2 To run the app
+-m domu.src.app

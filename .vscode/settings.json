@@ -17,5 +17,6 @@
     "path": "nenartsy/public/",
     "componentsPath": "/Users/elenafresch/Documents/GitHub/elenafresch/nenartsy/src/components",
     "screensPath": "/Users/elenafresch/Documents/GitHub/elenafresch/nenartsy/src/pages"
-  }
+  },
+  "CodeGPT.apiKey": "Ollama"
 }

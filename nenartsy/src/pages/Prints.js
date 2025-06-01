@@ -15,7 +15,7 @@ const Prints = () => {
       <div className="prints4">PRINTS</div>
       <img className="prints-child3" alt="" src="/rectangle-2021.svg" />
       <div className="more3">MORE</div>
-      <div className="label52">2023 © Elena Fresch</div>
+      <div className="label52">2024 © Elena Fresch</div>
       <div className="label-parent8">
         <div className="label53">ABOUT</div>
         <div className="label53">PRINTS</div>
